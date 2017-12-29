@@ -1,0 +1,1 @@
+[null,{"name":"Welcome","temp":"newplayer","event-type":"6","actions":[{"info":"1","find":"general","storage":"1","varName":"channel","name":"Find Channel"},{"channel":"5","varName":"newplayer","message":"Everyone Welcome ${tempVars(\"newplayer\")} to the gang.","storage":"0","varName2":"","name":"Send Message"}]}]
